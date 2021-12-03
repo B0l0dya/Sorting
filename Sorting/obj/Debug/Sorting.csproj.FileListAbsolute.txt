@@ -1,0 +1,15 @@
+C:\Users\stud305\source\repos\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\stud305\source\repos\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\stud305\source\repos\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\stud305\source\repos\Sorting\Sorting\bin\Debug\EntityFramework.dll
+C:\Users\stud305\source\repos\Sorting\Sorting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud305\source\repos\Sorting\Sorting\bin\Debug\EntityFramework.xml
+C:\Users\stud305\source\repos\Sorting\Sorting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud305\source\repos\Sorting\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\stud305\source\repos\Sorting\Sorting\obj\Debug\Sorting.Form1.resources
+C:\Users\stud305\source\repos\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\stud305\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+C:\Users\stud305\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.CopyComplete
+C:\Users\stud305\source\repos\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\stud305\source\repos\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\stud305\source\repos\Sorting\Sorting\obj\Debug\Sorting.Form2.resources
